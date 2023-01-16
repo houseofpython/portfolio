@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Ursula Lopez. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 I'm Diontre Sanders. I'm a Software developer that has been in the IT industry for over 8 years. Just recently coming into the software development community I look forward to solving problems and creating as I go. Thank you 💜",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,26 +11,27 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "The Travel Card Game",
+        "startDate": "2023",
+        "description": "My first project as a developer. Working with a great team we were able to create a card game that allows user to study while tracking their highscore. I was able to make this come alive using only html, javscript, and css with no third party apis.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/travel-card-game/tcg1.png",
+          "images/portfolio/travel-card-game/tcg2.png",
+          "images/portfolio/travel-card-game/tcg3.png"
         ],
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-html5-plain",
+            "name": "Html-5"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
           }
         ]
       },
@@ -81,37 +82,48 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Florida Blue",
+        "title": "System Engineer",
+        "years": "12/2019 - 08/2022",
         "mainTech": [
-          "Angular 8/9/10"
+          "Tenable.IO"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Excel",
+          "Outlook",
+          "Nessus",
+          "Data Analysis",
+          "Meeting Planning",
+          "EF Core"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Harden Insurance",
+        "title": "System Administrator",
+        "years": "12/2018 - 12/2019",
         "mainTech": [
-          "Angular 7/8"
+          "Windows 10"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Active Directory",
+          "Windows 7/10",
+          "HP Servers",
+          "Imaging"
+        ]
+      },
+      {
+        "company": "",
+        "title": "IT Support Specialist II",
+        "years": "09/2017 - 12/2018",
+        "mainTech": [
+          "Windows 7"
+        ],
+        "technologies": [
+          "Active Directory",
+          "Windows 7/10",
+          "Networking",
+          "Mobile Devices",
+          "Application Support"
         ]
       }
     ]
