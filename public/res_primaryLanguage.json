@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Diontre Sanders. I'm a Software developer that has been in the IT industry for over 8 years. Just recently coming into the software development community I look forward to solving problems and creating as I go. Thank you 💜",
+      "description": "👋 Hi, I'm a Full stack python developer with a strong background in IT support that has a passion to engineer and create through code to help support end users. I love bringing simple solutions to complex problems. With a wide demographic background that loves to connect to consumers to create and solve problems through Tech. Lastly, a veteran of the US army with a diverse background in the private and government sector.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -36,14 +36,14 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Urban Potatoes",
+        "startDate": "2023",
+        "description": "This application is a social site for movie lovers. Giving users the freedom to browse the latest movies and interact with users on a social forum. Did I also mention you can save all your favorite movies ever to your own profile.",
         "images": [
           "images/portfolio/photography/p1.jpg",
           "images/portfolio/photography/p2.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://urban-potatoes.netlify.app/",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -56,9 +56,9 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Low-Ballers Price Comparison",
+        "startDate": "2023",
+        "description": "Ever want to get the lowest price on a item ? Well using webscraping I was able to create a terminal application that let's a user shop on the SHOPMYEXCHANGE (military website) and enter their url and price. Then using automation, bots, and apis. Bring back the lowest price compared to Target, Walmart,Sears, Amazon, and Bestbuy.",
         "images": [
           "images/portfolio/adventure/p1.jpg",
           "images/portfolio/adventure/p2.jpg"
@@ -66,16 +66,8 @@
         "url": "https://github.com",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-python-plain",
+            "name": "Python"
           }
         ]
       }
