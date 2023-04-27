@@ -17,6 +17,8 @@ html {
 
 .title-container {
 	height: 50px;
+	font-size: 250%;
+	color: white;
 }
 
 .title-styles {
@@ -87,7 +89,7 @@ header .nav {
 
 .language {
 	font-size: 25px;
-	background-color: #3a646d;
+	background-color: white;
 	padding-bottom: 10px;
 	padding-top: 80px;
 }
@@ -96,18 +98,18 @@ header h1 {
 	font-size: 400%;
 	text-align: center;
 	font-weight: 600 !important;
-	color: #353239;
+	color: white;
 	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 	margin: 0 auto 18px auto;
 	width: 100%;
 }
 
 .slider-image {
-	border: 5px solid #3a646d;
+	border: 5px solid white;
 }
 
 .slider-tab {
-	background-color: #3a646d;
+	background-color: white;
 	height: 25px;
 }
 
@@ -121,7 +123,7 @@ header h1 {
 }
 
 #about {
-	background: #3a646d;
+	background: white;
 	overflow: hidden;
 }
 
@@ -233,7 +235,7 @@ header h1 {
 }
 
 #resume {
-	background: #3a646d;
+	background: white;
 }
 
 .experience-icon {
@@ -355,7 +357,7 @@ header h1 {
 }
 
 #portfolio {
-	background: #3a646d;
+	background: white;
 	padding-bottom: 5%;
 }
 
@@ -404,7 +406,7 @@ header h1 {
 	font: 18px/24px 'opensans-bold', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 3px;
-	color: #fff;
+	color: orange;
 	text-align: center;
 }
 
