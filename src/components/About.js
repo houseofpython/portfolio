@@ -13,6 +13,7 @@ class About extends Component {
       var sectionName = this.props.resumeBasicInfo.section_name.about;
       var hello = this.props.resumeBasicInfo.description_header;
       var about = this.props.resumeBasicInfo.description;
+      var contact = this.props.resumeBasicInfo.contact;
     }
 
     return (
@@ -28,7 +29,7 @@ class About extends Component {
                   <img
                     height="250px"
                     src={profilepic}
-                    alt="Avatar placeholder"
+                    alt={"Avatar placeholder"}
                   />
                   <Icon
                     icon={angularIcon}
@@ -81,6 +82,8 @@ class About extends Component {
                     <br />
                     <br />
                     {about}
+                    <br />
+                    {contact}
                   </div>
                 </div>
               </div>

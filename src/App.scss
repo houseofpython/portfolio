@@ -1,6 +1,7 @@
 @import '/src/scss/themes/theme-dark.scss';
 @import '/src/scss/themes/theme-light.scss';
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200;300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mukta&family=Pacifico&display=swap');
 
 html {
 	font-size: 62.5%;
@@ -39,13 +40,16 @@ header {
 	text-align: center;
 	overflow: hidden;
 	background-color: #f3f8f5;
-	// background-image: url('./public/unages/storm.jpg')
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
+	background-image: url('../public/images/lake.jpg');
 	-o-background-size: cover;
 	background-size: cover;
 	padding-top: 150px;
 	padding-bottom: 0;
+	font-size: 2em;
+	color: rgb(255, 255, 255);
+	font-family: 'Mukta', sans-serif;
 }
 
 header .nav {
@@ -322,6 +326,12 @@ header h1 {
 	height: 42px;
 	line-height: 42px;
 	border-radius: 3px 0 0 3px;
+}
+
+.mb-0 {
+	color: #9a8d1d;
+	font-family: 'Pacifico', cursive;
+	opacity: 0.8;
 }
 
 .modal-close {

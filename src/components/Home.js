@@ -2,6 +2,8 @@ import React, { Component } from "react";
 import Projects from "./Projects";
 import Skills from "./Skills";
 import Experience from "./Experience";
+import About from "./About";
+import { AccordionButton } from "react-bootstrap";
 
 class Home extends Component {
   render() {
@@ -19,6 +21,9 @@ class Home extends Component {
           resumeExperience={this.props.resumeData.experience}
           resumeBasicInfo={this.props.resumeData.basic_info}
         />
+        <About
+          sharedBasicInfo={this.props.sharedData.sharedBasicInfo}
+          resumeBasicInfo={this.props.resumeData.basic_info}/>
       </div>
     );
   }

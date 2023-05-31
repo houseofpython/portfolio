@@ -2,6 +2,7 @@
     "basic_info": {
       "description_header": "Hi",
       "description": "👋 Hi, I'm a Full stack python developer with a strong background in IT support that has a passion to engineer and create through code to help support end users. I love bringing simple solutions to complex problems. With a wide demographic background that loves to connect to consumers to create and solve problems through Tech. Lastly, a veteran of the US army with a diverse background in the private and government sector.",
+      "contact": "Email me: diontre01@gmail.com or check out the icons below",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -56,7 +57,7 @@
         ]
       },
       {
-        "title": "Low-Ballers Price Comparison",
+        "title": "Tech Relocator",
         "startDate": "2023",
         "description": "Ever want to get the lowest price on a item ? Well using webscraping I was able to create a terminal application that let's a user shop on the SHOPMYEXCHANGE (military website) and enter their url and price. Then using automation, bots, and apis. Bring back the lowest price compared to Target, Walmart,Sears, Amazon, and Bestbuy.",
         "images": [

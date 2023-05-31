@@ -52,7 +52,7 @@ class Header extends Component {
           </Nav.Item>
           <Nav.Item>        
             <LinkContainer to="/about">
-              <Nav.Link eventKey="about">About</Nav.Link>
+              <Nav.Link eventKey="about">Contact</Nav.Link>
             </LinkContainer>
           </Nav.Item>
           <Nav.Item>
@@ -108,8 +108,7 @@ class Header extends Component {
               </h1>
               <div className="title-container">
                 <HeaderTitleTypeAnimation />
-              </div>
-              
+              </div> 
             </div>
           </div>
         </div>
