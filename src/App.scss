@@ -47,7 +47,7 @@ header {
 	background-size: cover;
 	padding-top: 150px;
 	padding-bottom: 0;
-	font-size: 2em;
+	font-size: 1em;
 	color: rgb(255, 255, 255);
 	font-family: 'Mukta', sans-serif;
 }
@@ -329,8 +329,7 @@ header h1 {
 }
 
 .mb-0 {
-	color: #9a8d1d;
-	font-family: 'Pacifico', cursive;
+	color: #ffffff;
 	opacity: 0.8;
 }
 
@@ -449,4 +448,15 @@ footer a:focus {
 .social-links {
 	margin-top: 10px;
 	font-size: 22px;
+}
+
+.intro-container {
+	opacity: 0.9;
+	max-width: 400px;
+	border-radius: 1em;
+	margin: auto;
+	padding: 10px;
+	color: #1747b5;
+	margin-right: 300px;
+	margin-bottom: 500px;
 }

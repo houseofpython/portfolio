@@ -82,7 +82,17 @@ class About extends Component {
                     <br />
                     <br />
                     {about}
+                    <span></span>
                     <br />
+                  </div>
+                  <div
+                    className="card-body font-trebuchet text-justify ml-3 mr-3"
+                    style={{
+                      height: "auto",
+                      fontSize: "132%",
+                      lineHeight: "200%",
+                    }}
+                  >
                     {contact}
                   </div>
                 </div>

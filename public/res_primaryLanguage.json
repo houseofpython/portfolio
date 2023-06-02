@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 Hi, I'm a Full stack python developer with a strong background in IT support that has a passion to engineer and create through code to help support end users. I love bringing simple solutions to complex problems. With a wide demographic background that loves to connect to consumers to create and solve problems through Tech. Lastly, a veteran of the US army with a diverse background in the private and government sector.",
+      "description_header": "Well, for starters Welcome",
+      "description": "Greetings, I'm a Full stack python developer with a strong background in IT support that has a passion to engineer and create through code to help support end users. My main interest now a days are continuing to develop my backend develop skills along with dev ops but I must admit i have taken quite a liking to data analyst through python. I love bringing simple solutions to complex problems. With a wide demographic background that loves to connect to consumers to create and solve problems through Tech. Lastly, a veteran of the US army with a diverse background in the private and government sector.",
       "contact": "Email me: diontre01@gmail.com or check out the icons below",
       "section_name": {
         "about": "About me",
@@ -41,8 +41,8 @@
         "startDate": "2023",
         "description": "This application is a social site for movie lovers. Giving users the freedom to browse the latest movies and interact with users on a social forum. Did I also mention you can save all your favorite movies ever to your own profile.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/photography/rottenpotatoes.png",
+          "images/portfolio/photography/rotttenpotatoes2.png"
         ],
         "url": "https://urban-potatoes.netlify.app/",
         "technologies": [
@@ -59,12 +59,12 @@
       {
         "title": "Tech Relocator",
         "startDate": "2023",
-        "description": "Ever want to get the lowest price on a item ? Well using webscraping I was able to create a terminal application that let's a user shop on the SHOPMYEXCHANGE (military website) and enter their url and price. Then using automation, bots, and apis. Bring back the lowest price compared to Target, Walmart,Sears, Amazon, and Bestbuy.",
+        "description": "Ever wanted to see every job across the world in Tech that has been posted in this last 30 days. Well this is almost that lol. Using python and many other tools I was able to create a full stack application that shows plots data across the world for Tech jobs using postgres database.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/adventure/techrelocator.png",
+          "images/portfolio/adventure/techrelocator2.png"
         ],
-        "url": "https://github.com",
+        "url": "https://tech-relocator.herokuapp.com",
         "technologies": [
           {
             "class": "devicon-python-plain",
@@ -74,6 +74,22 @@
       }
     ],
     "experience": [
+      {
+        "company": "Code Fellows",
+        "title": "Software Engineer Student",
+        "years": "10/2022 - 05/2023",
+        "mainTech": [
+          "Python"
+        ],
+        "technologies": [
+          "CSS",
+          "HTML",
+          "JavaScript",
+          "Python",
+          "React",
+          "Django"
+        ]
+      },
       {
         "company": "Florida Blue",
         "title": "System Engineer",
