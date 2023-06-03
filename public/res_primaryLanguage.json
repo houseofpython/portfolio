@@ -59,7 +59,7 @@
       {
         "title": "Tech Relocator",
         "startDate": "2023",
-        "description": "Ever wanted to see every job across the world in Tech that has been posted in this last 30 days. Well this is almost that lol. Using python and many other tools I was able to create a full stack application that shows plots data across the world for Tech jobs using postgres database.",
+        "description": "Ever wanted to see every job across the world in Tech that has been posted in this last 30 days. Well this is almost that lol. Using python and many other tools I was able to create a full stack application that shows tech job data across the world for Tech jobs using dash and python.",
         "images": [
           "images/portfolio/adventure/techrelocator.png",
           "images/portfolio/adventure/techrelocator2.png"
