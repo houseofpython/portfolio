@@ -94,7 +94,7 @@ class ProjectDetailsModal extends Component {
               ) : null}
             </h3>
             <p className="modal-description">{description}</p>
-            <a href="{url}"className="modal-description">{url}</a>
+            <a href={url} className="modal-description">Click me for Demo</a>
             <div className="col-md-12 text-center">
               <ul className="list-inline mx-auto">{tech}</ul>
             </div>
